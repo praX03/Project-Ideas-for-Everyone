@@ -60,3 +60,19 @@ This project list contains ideas for:
 |Survey Form|Digital survey form|
 |Word Counter|An app that counts words in a document|
 |Countdown Timer|A countdown timer|
+
+## Game Development
+
+| Project Idea | Description of Project |
+|--|--|
+|Flappy Bird | A game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. |
+|Mario Jump | A game to make mario reach the queen crossing various hurdles on the way |
+|2D Action Fight | A 2D game where two users fight each other  |
+|Pong | Table tennis–themed arcade sports video game |
+|Tetris | Tile-matching video game  |
+|Crosswords  | Word puzzle that takes the form of a square or a rectangular grid of white- and black-shaded squares |
+|Sudoku  | Logic-based, combinatorial number-placement puzzle |
+|PacMan  | Action maze chase video game |
+|SpaceWars | Jet fight game happening in space |
+|Snake  |  A game where the player maneuvers a line which grows in length by eating power-ups |
+|Bounce | A 2D ball goes through a side scrolling world |
