@@ -76,3 +76,19 @@ This project list contains ideas for:
 |SpaceWars | Jet fight game happening in space |
 |Snake  |  A game where the player maneuvers a line which grows in length by eating power-ups |
 |Bounce | A 2D ball goes through a side scrolling world |
+
+## IoT/Robotics
+
+| Project Idea | Description of Project |
+|--|--|
+| Home Automation System| Automate normal household chores |
+|IoT based Notification System|Notify your devices when any appliances malfunctions, AC cools the entire room etc.|
+|Android/iOS Controlled Robot|Robot that can be controlled through smartphones|
+|Surveillance Camera|A camera whose feed comes to your smartphone|
+|Visitor Alarm System|An alarm to notify you of intruders|
+|Automatic Battery Charger|A device that starts charging your devices automatically on low battery|
+|Bomb Disposal Robot|A robot capable of disposing bombs|
+|Automatic House Breaker Action Setup|A setup to trigger certain actions in case of a house breaking|
+|Firefighting Robot|A robot capable to put off fires|
+|Biped\Quadruped Robot|An all-terrain robot capable of going to remote places|
+
