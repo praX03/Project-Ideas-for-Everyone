@@ -41,3 +41,22 @@ This project list contains ideas for:
 | Exchange rate calculator |App that calculates different currency exchange rates  |
 | Live camera filters |App that allows user to use different filters and click pictures in real-time  |
 | Hotel reservation app |An app to imitate hotel reservation dashboard |
+
+## Web Development
+
+| Project Idea | Description of Project |
+|--|--|
+|Clock| A simple digital clock |
+|COVID Tracker App| A website that tracks COVID cases in real-time  |
+|Meme Generator| A website to fetch random memes  |
+|Movie suggestion| A website to suggest movies based on watch history  |
+|Color Palette Picker|A website to suggest color palettes  |
+|Notes App|An app to take notes |
+|Question and Answer Platform|A Q&A platform for college students/freshers  |
+|Single Page Layout|A single page UX website layout  |
+|Login Authentication|Login and registration authentication system  |
+|Product landing page|A website for digital shopping portal  |
+|To-Do List|A to-do list app|
+|Survey Form|Digital survey form|
+|Word Counter|An app that counts words in a document|
+|Countdown Timer|A countdown timer|
