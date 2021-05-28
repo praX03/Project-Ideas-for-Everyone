@@ -3,10 +3,10 @@ _By Randomize(); MUJ_
 
 This project list contains ideas for:
 
-    - App Development
-    - Game Development
-    - Machine Learning, and
-    - Web Development
+ - App Development
+ - Game Development
+ - Machine Learning, and
+ - Web Development
 
 ## Machine Learning
 
