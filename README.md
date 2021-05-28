@@ -25,3 +25,19 @@ This project list contains ideas for:
 |Music Genre Classification|To classify music into different genres using Machine Learning|
 |Sign Language Recognition|To understand sign language using Machine Learning|
 |Handwritten Character Recognition|To understand handwritten characters and to convert it into printed alphabets|
+
+## App Development
+
+| Project Idea | Description of Project |
+|--|--|
+|Travel Guide Application| A travel companion app to help you with everything you need while travelling to a place |
+| Contact App Android |A contact list app but better  |
+| A Quiz Application |A quiz taking/generating app  |
+| A mental health tracker |An app that tracks your mental health regularly  |
+| A notes app |An app where you can take notes |
+| Clones for different apps |Fully/Semi functional clones of famous apps such as Instagram, Facebook, Clubhouse etc.  |
+| Random Pattern Generator |App that generates random visual patterns |
+| Clock |A clock app  |
+| Exchange rate calculator |App that calculates different currency exchange rates  |
+| Live camera filters |App that allows user to use different filters and click pictures in real-time  |
+| Hotel reservation app |An app to imitate hotel reservation dashboard |
